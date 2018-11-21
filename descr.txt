@@ -1,4 +1,7 @@
-The projects, for which the trainees build CI/CD are: OMS (Java), WordLearning (.NET), EcoMap (Python), LanguageSchool (RoR), Chess (Node.js). Also for some tasks can be used own created project (on Java, .Net, LAMP) that implements a simple CRUD. This allows introduce introduce of the basic elements of development. Work based on Centos OS for *NIX-direction. 
+The projects, for which the trainees build CI/CD are: OMS (Java), 
+WordLearning (.NET), EcoMap (Python), LanguageSchool (RoR), Chess (Node.js). Also for some tasks can be used own created project (on Java, .Net, LAMP) that implements a simple CRUD. 
+This allows introduce introduce of the basic elements of development. 
+Work based on Centos OS for *NIX-direction. 
 
 
 https://confluence.softserveinc.com/download/attachments/192314987/OMS.7z?version=1&modificationDate=1453116077813&api=v2
